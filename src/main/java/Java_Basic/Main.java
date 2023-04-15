@@ -37,7 +37,17 @@ public class Main {
 
         //Approach 03 - using Constructor
         //
-        Student student = new Student(123, "Musa",'A');
-        student.printRR();
+//        Student student = new Student(123, "Musa",'A');
+//        student.printRR();
+
+
+        Method_and_Constructor mc = new Method_and_Constructor();
+        mc.greetings01();
+        String msg=mc.greetings02();
+        System.out.println(msg);
+        mc.greetings03("Shuvo");
+        String msg1=mc.greetings04("Raiyana");
+        System.out.println(msg1);
+
     }
 }
