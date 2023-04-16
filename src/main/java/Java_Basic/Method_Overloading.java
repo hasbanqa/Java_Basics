@@ -23,39 +23,39 @@ public class Method_Overloading {
 
 
     /*Method Overloading Rules
-    * Methods names should/must be same
-    * Numbers of parameters should / must be different
-    * Data type must be different(if parameters count is same)
-    * Order of parameters must be different
-    * */
+     * Methods names should/must be same
+     * Numbers of parameters should / must be different
+     * Data type must be different(if parameters count is same)
+     * Order of parameters must be different
+     * */
     int x, y;
     double d;
 
-    void sum(){
-        x=20;
-        y=50;
-        System.out.println(x+y);
+    void sum() {
+        x = 20;
+        y = 50;
+        System.out.println(x + y);
     }
 
-    void sum(int a, int b){
+    void sum(int a, int b) {
 
-        x=a;
-        y=b;
-        System.out.println(x+y);
+        x = a;
+        y = b;
+        System.out.println(x + y);
     }
 
-    void sum(int a, double b){
+    void sum(int a, double b) {
 
-        x=a;
-        d=b;
-        System.out.println(x+y);
+        x = a;
+        d = b;
+        System.out.println(x + d);
     }
 
-    void sum(double b, int a){
+    void sum(double b, int a) {
 
-        x=a;
-        d=b;
-        System.out.println(x+y);
+        x = a;
+        d = b;
+        System.out.println(d + y);
     }
 
 }
