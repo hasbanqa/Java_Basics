@@ -10,7 +10,7 @@ public class Method_and_Constructor {
     */
 
 // 1. no params    no return value
-    void greetings01 (){
+     protected void greetings01 (){
         System.out.println("Hello I am a method that no returns and no parameters");
     }
 

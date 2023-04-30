@@ -41,8 +41,8 @@ public class Main {
 //        student.printRR();
 
 
-//        Method_and_Constructor mc = new Method_and_Constructor();
-//        mc.greetings01();
+        Method_and_Constructor mc = new Method_and_Constructor();
+        mc.greetings01();
 //        String msg=mc.greetings02();
 //        System.out.println(msg);
 //        mc.greetings03("Shuvo");
@@ -56,8 +56,8 @@ public class Main {
 //        mo.sum(50,90.03);
 //        mo.sum(30.80,80);
 
-        ThisKeyWord tkw = new ThisKeyWord(20,30);
-        tkw.display();
+//        ThisKeyWord tkw = new ThisKeyWord(20,30);
+//        tkw.display();
 
     }
 }
