@@ -37,9 +37,6 @@ public class ReadingExcel {
         String entry1= sheet.getRow(1).getCell(1).getStringCellValue();
         System.out.println(entry1);
 
-
-
-
     }
 
 

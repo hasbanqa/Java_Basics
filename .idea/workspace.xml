@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76a92196-3fbb-47b1-820a-3cd7c9acc29b" name="Changes" comment="Apache poi">
+    <list default="true" id="76a92196-3fbb-47b1-820a-3cd7c9acc29b" name="Changes" comment="Apache poi1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/ReadingExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePage/ReadingExcel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testdata/testdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testdata/data.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684686152444</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Apache poi1">
+      <created>1684687260161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684687260161</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +191,7 @@
     <MESSAGE value="Selenium" />
     <MESSAGE value="Selenium auto dropdown" />
     <MESSAGE value="Apache poi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apache poi" />
+    <MESSAGE value="Apache poi1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apache poi1" />
   </component>
 </project>
