@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76a92196-3fbb-47b1-820a-3cd7c9acc29b" name="Changes" comment="Selenium auto dropdown">
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/Alerttt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/ReadingExcel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76a92196-3fbb-47b1-820a-3cd7c9acc29b" name="Changes" comment="Apache poi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684599518805</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Apache poi">
+      <created>1684685898775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684685898775</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Apache poi">
+      <created>1684685921186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684685921186</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selenium" />
     <MESSAGE value="Selenium auto dropdown" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium auto dropdown" />
+    <MESSAGE value="Apache poi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apache poi" />
   </component>
 </project>
